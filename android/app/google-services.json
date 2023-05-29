@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311250368810",
+    "project_id": "authlogin-a3132",
+    "storage_bucket": "authlogin-a3132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311250368810:android:a253560fc4e790fd264653",
+        "android_client_info": {
+          "package_name": "com.example.auth_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7OnDd4BHHS9AYv0P9VFf2ENJwlzp2SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
